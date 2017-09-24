@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Cicerone Moxy Workshop</string>
+
+    <!--Fonts-->
+    <string name="roboto_regular">sans-serif</string>
+    <string name="roboto_light">sans-serif-light</string>
+    <string name="roboto_condensed">sans-serif-condensed</string>
+    <string name="roboto_black">sans-serif-black</string>
+    <string name="roboto_thin">sans-serif-thin</string>
+    <string name="roboto_medium">sans-serif-medium</string>
+
+    <!--String Placeholders-->
+    <string name="user_first_name">First Name</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_blank">Blank</string>
+
+    <string name="open_drawer" translatable="false">open</string>
+    <string name="close_drawer" translatable="false">close</string>
+    <string name="error_message">Something went wrong, try again later</string>
+
+    <!--Categories-->
+    <string name="cat_categories">Categories</string>
+    <string name="cat_food">Food</string>
+    <string name="cat_entertainment">Entertainment</string>
+    <string name="cat_education">Education</string>
+    <string name="cat_transportation">Transportation</string>
+
+    <!--Expenses-->
+    <string name="exp_expenses">Expenses</string>
+    <string name="exp_school_fees">School Fees</string>
+    <string name="exp_taxi">Taxi</string>
+    <string name="exp_petrol">Petrol</string>
+
+    <!--Currency-->
+    <string name="cur_usd">US Dollar</string>
+    <string name="cur_usd_acr">USD</string>
+    <string name="cur_usd_sym">$</string>
+
+    <!--Labels-->
+    <string name="label_description">Description</string>
+
+    <!--Alert Dialogs-->
+    <string name="close_app">Close App?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="are_you_sure">Are you sure you want to exit?</string>
+</resources>
